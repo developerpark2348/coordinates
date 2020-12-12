@@ -28,4 +28,5 @@ body {
   position: absolute;
   font-size: 38px;
   transform: translate(20px, 20px); /* 요소내 밑측,우측에서 20px씩 당김*/
+  margin: 20px;
 }
